@@ -1,0 +1,1 @@
+The Hidden Camera Detector is a software-only solution designed to enhance personal privacy and safety by identifying potential hidden cameras in hotel rooms, resorts, public restrooms, and other sensitive spaces. The goal is to provide an accessible, user-friendly tool that helps especially women and travelers identify threats without the need for additional gadgets.
